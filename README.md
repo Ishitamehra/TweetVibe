@@ -14,9 +14,9 @@ This project focuses on enhancing the accuracy of the Support Vector Machine (SV
 
 **Prerequisites**
 
-Python 3.6 or higher
-Tweepy for Twitter API
-Translator API for language conversion
-TextBlob for text processing
-Scikit-learn for machine learning algorithms
-Matplotlib and WordCloud for data visualization
+1- Python 3.6 or higher
+2- Tweepy for Twitter API
+3- Translator API for language conversion
+4- TextBlob for text processing
+5- Scikit-learn for machine learning algorithms
+6- Matplotlib and WordCloud for data visualization
