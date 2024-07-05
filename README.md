@@ -5,7 +5,7 @@ This project focuses on enhancing the accuracy of the Support Vector Machine (SV
 
 **Features**:
 
-1- **Multilingual Support:** Converts multilingual tweets to English using the Translator API.
+1- **Multilingual Support:** Converts multilingual tweets to English using the Translator API.\n
 2- **Noise Handling:** Removes URLs, symbols, special characters, stop words, and corrects misspelled words.
 3- **Feature Extraction:** Extracts and selects relevant features to improve model accuracy.
 4- **Multiple Models:** Compares the performance of Bernoulli Naive Bayes, SVM, and Logistic Regression classifiers.
